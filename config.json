@@ -1,0 +1,10 @@
+{
+    "application": {
+        "port": "3003"
+    },
+    "backbone": {
+        "rootDirectory": "backbone-fram-ui",
+        "staticPath": "backbone-fram-ui/static",
+        "bundlePath": "backbone-fram-ui/build"
+    }
+}

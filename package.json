@@ -1,0 +1,17 @@
+{
+  "name": "backbone-spa",
+  "version": "0.0.1",
+  "description": "Backbone framework application",
+  "main": "app.js",
+  "private": true,
+  "scripts": {
+    "npm start": "node app"
+  },
+  "author": "Aliaksandr Hurchanka",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "path": "^0.12.7"
+  }
+}
